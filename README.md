@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Tauan Nunes
 
  <div>
    <a href="https://github.com/Tauan-Nunes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tauan-Nunes&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauan-Nunes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauan-Nunes&layout=compact&langs_count=6&theme=blue-green"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -22,5 +22,5 @@
  <a href="https://discord.gg/872164_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:tauan_sky@hotmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tauan-nunes-12b27a57/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://facebook.com/tauan.nunes.7/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-#0866FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href="https://facebook.com/tauan.nunes.7/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
